@@ -18,3 +18,15 @@ nav a{
    margin-top: 50px;
    background-image: url(images/aj.svg); 
 }
+.main{
+    margin-left: 40px;
+}
+.word{
+    margin-left: 40px;
+}
+.popular{
+  text-align: center;
+   font-size: 1.5em;
+   margin-top: 350px;
+   color: rgb(181, 77, 233);
+}
